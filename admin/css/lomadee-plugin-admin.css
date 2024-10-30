@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ #wpbody-content{
+ 	padding-bottom: 10px;
+ }
+.checkboxes ul, .checkboxes li {
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+.checkboxes li {
+    display:inline-block;
+    width:30%;
+}
